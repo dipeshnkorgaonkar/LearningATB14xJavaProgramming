@@ -1,6 +1,6 @@
-package learning_14x;
+package ex_01_Java_Basics;
 
-public class Lab001 {
+public class Lab001_HelloWord {
     public static void main(String[] args) {
         System.out.println("Hello World!");
     }
